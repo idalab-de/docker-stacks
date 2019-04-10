@@ -1,4 +1,4 @@
-Pangeo Stacks
+Docker Stacks
 =============
 *Currated Docker images for use with Jupyter and [Pangeo](http://pangeo.io/)*
 
